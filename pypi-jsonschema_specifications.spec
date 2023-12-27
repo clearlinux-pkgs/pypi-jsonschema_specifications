@@ -5,7 +5,7 @@
 #
 Name     : pypi-jsonschema_specifications
 Version  : 2023.7.1
-Release  : 2
+Release  : 3
 URL      : https://files.pythonhosted.org/packages/12/ce/eb5396b34c28cbac19a6a8632f0e03d309135d77285536258b82120198d8/jsonschema_specifications-2023.7.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/12/ce/eb5396b34c28cbac19a6a8632f0e03d309135d77285536258b82120198d8/jsonschema_specifications-2023.7.1.tar.gz
 Summary  : The JSON Schema meta-schemas and vocabularies, exposed as a Registry
